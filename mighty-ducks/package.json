@@ -1,0 +1,22 @@
+{
+    "name": "mighty-ducks",
+    "author": "Dylan O'Leary <dylanolearydev@gmail.com>",
+    "displayName": "Mighty Ducks",
+    "description": "A VSCode theme inspired by the greatest team to ever hit the ice, The '92 Mighty Ducks",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.48.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Mighty Ducks",
+                "uiTheme": "vs-dark",
+                "path": "./themes/mighty-ducks-color-theme.json"
+            }
+        ]
+    }
+}
