@@ -14,4 +14,4 @@ A VS Code theme inspired by the greatest jerseys of all time
 + **Install** it and **Reload** your editor!
 + Select it by going to Code → Preferences → Color Theme → ***Mighty Ducks***
 
-### Enjoy :ice_hockey:
+### Enjoy
