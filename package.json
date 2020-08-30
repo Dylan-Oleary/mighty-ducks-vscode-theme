@@ -4,7 +4,7 @@
     "publisher": "dylanolearydev",
     "displayName": "Mighty Ducks",
     "description": "A VSCode theme inspired by the greatest team to ever hit the ice, The '92 Mighty Ducks",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "engines": {
         "vscode": "^1.48.0"
     },
